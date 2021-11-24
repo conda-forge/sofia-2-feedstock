@@ -1,5 +1,5 @@
 {% set name = "SoFiA-2" %}
-{% set version = "2.3.0" %}
+{% set version = "2.4.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://github.com/SoFiA-Admin/{{ name }}/archive/v{{ version }}.tar.gz
-    sha256: bdf2e2e4e041ea50ed7cc4255ff35284b880ee5deb599c4fa233a58dc5b5c984
+    sha256: 7bb4d12b4a3ef4947e9d6f75dc16ff57a5f583a524633e069d6cb63ad7054a62
     folder: sources
   - url: https://github.com/SoFiA-Admin/SoFiA-2/wiki/documents/sofia_test_datacube.tar.gz
     sha256: c4af151d8d0ef01daf9be06655a625ce6d821bec0361f7541b732edce932c1a7
