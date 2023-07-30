@@ -14,7 +14,7 @@ source:
     folder: test-data
 
 build:
-  number: 0
+  number: 1
   skip: true  # [win or osx]
 
 requirements:

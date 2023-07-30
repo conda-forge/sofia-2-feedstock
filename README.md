@@ -1,11 +1,11 @@
-About sofia-2
-=============
+About sofia-2-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sofia-2-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/SoFiA-Admin/SoFiA-2
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sofia-2-feedstock/blob/main/LICENSE.txt)
 
 Summary: This is version 2 of the HI Source Finding Application (SoFiA)
 
@@ -30,7 +30,7 @@ Current build status
               <td>linux_64</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11608&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/sofia-2-feedstock?branchName=main&jobName=linux&configuration=linux_64_" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/sofia-2-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_" alt="variant">
                 </a>
               </td>
             </tr>
